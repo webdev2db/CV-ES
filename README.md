@@ -2,9 +2,15 @@
 En este repositorio encontran mi información profesional ubicada en las diferentes ramas. 
 
 ## Ramas
-- cv: Mi cv actualizado en español 
-- Resume: Mi cv actualizado en inglés 
-- Certificados: Certificados obtenidos de los cursos de Udemy que he tomado 
+| Rama | Contenido |
+| - -  | : - - - - |
+| cv   | Mi cv actualizado en español |
+| Resume | Mi cv actualizado en inglés |
+| Certificados | Certificados obtenidos de los cursos de Udemy que he tomado |
+
+
+ 
+ 
 
 # Computer engineer Gonzalez Martinez Darío Alfredo 
 In this repository you'll find my career information along the different branches. 
