@@ -3,7 +3,7 @@ En este repositorio encontran mi información profesional ubicada en las diferen
 
 ## Ramas
 | Rama | Contenido |
-| - -  | : - - - - |
+| - -  |  - - - - |
 | cv   | Mi cv actualizado en español |
 | Resume | Mi cv actualizado en inglés |
 | Certificados | Certificados obtenidos de los cursos de Udemy que he tomado |
